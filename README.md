@@ -30,7 +30,7 @@ If you need some help in any technical topic or want to work together on somethi
 
 ## Featured Repos
 
-
+![Tailgate Detection System](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=tailgating-detection-system&theme=vue-dark)
 ![Computer Network](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=computerNetwork-using-Cisco-Packet-Tracer&theme=vue-dark)
 
 

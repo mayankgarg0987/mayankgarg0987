@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Hello! 👋 Myself Mayank Garg </h1>
 
-<p aligh="left">I am a guy who has all kinds of interests in Technology (Mostly, InfoSec stuff). So my interests include anything and everything ranging from competitive hacking challenges😎(aka CTFs) to Bug Bounties and Windows Red Teaming. I am a student pursuing my bachelor's degree from <a href='https://www.cuchd.in/'>Chandigarh University</a> with Information Security as my majors. I have been a Web App Security Intern and Software Testing Associate Intern at a couple of organizations, where I used to test client's web applications for security issues and make reports to help them remediating the found security issues.</p>
+<p aligh="left">I am a guy who has all kinds of interests in Technology (Mostly, InfoSec stuff). So my interests include anything and everything ranging from competitive hacking challenge (commonly known as CTFs) to Bug Bounties and Windows Red Teaming. I am a student pursuing my bachelor's degree from <a href='https://www.cuchd.in/'>Chandigarh University</a> with Information Security as my majors. I have been a Web App Security Intern and Software Testing Associate Intern at a couple of organizations, where I used to test client's web applications for security issues and make reports to help them remediating the found security issues.</p>
 
 <br>
 

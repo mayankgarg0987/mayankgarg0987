@@ -21,7 +21,7 @@
 <br>
 
 ## Available for work -
-If you need some help in any technical topic or want to work together on something excited, you can contact me here 😃:
+If you need some help in any technical topic or want to work together on something excited, you can contact me here😃:
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=iMayankGarg&color=blue)](https://linkedin.com/in/imayankgarg)

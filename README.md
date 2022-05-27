@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Hello! 👋 Myself Mayank Garg </h1>
 
-<p aligh="left">I am a person who has interests in Technnology (Mostly, in Cyber Security). I am a student pursuing my bachelor's degree from <a href='https://www.cuchd.in/'>Chandigarh University</a> with Information Security as my majors. My daily activities revolve around Bug Hunting, Penetration Testing to creating automation scripts and sometimes even Machine Learning projects as well. </p>
+<p aligh="left">I am a Cyber Security Researcher. My field of study narrows down to Application Security and Network Security. Apart from my passion and goals, I do have a taste in CTF games which excites me about all this even more.</p>
 
 <br>
 

@@ -34,7 +34,7 @@ If you need some help in any technical topic or want to work together on somethi
 ![CUCTF](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=CUCTF&theme=vue-dark)
 ![SubDemon (subdemon enum tool)](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=subdemon&theme=vue-dark)
 ![Network Asset Discovery tool](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=asset-discovery-tool&theme=vue-dark)
-![Tailgate Detection System](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=tailgating-detection-system&theme=vue-dark)
+![CEH Practical Prep](https://github-readme-stats.vercel.app/api/pin/?username=mayankgarg0987&repo=CEH-Practical-Prep&theme=vue-dark)
 
 
 ## Github Statistics -
